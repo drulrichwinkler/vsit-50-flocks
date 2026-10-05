@@ -1,0 +1,4 @@
+# Versionen gepinnt, damit die Übung im nächsten Semester noch läuft.
+jupyterlab==4.3.4
+ipykernel==6.29.5
+pytest==8.3.4
